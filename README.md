@@ -1,2 +1,2 @@
 # string-filtering
-the app can filtering the string with "//" char
+the app can filtering the string  like "//" char
